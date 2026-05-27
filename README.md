@@ -35,5 +35,19 @@ Concepts Used:
 1.Loops (for loop)
 2.Range function
 
+#Task 5: Factorial of number.
+This program calculates factorial of the number by taking user input.
+
+Concepts used:
+1.Functions(User-defined)
+2.for loop.
+
+#Task 6 : Using some functions of math module.
+This program calculates logarithm,sine and sqquare root using math module.
+
+Concepts used:
+1.Math module
+2.Basic input and output
+
 # Goal of This Repository
 To improve my Python programming skills step by step through consistent practice and small programs.
